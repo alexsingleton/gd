@@ -23,5 +23,5 @@ The result of \code{\link{input_geodemographic}}
 A standardised data frame.
 }
 \author{
-Alex D. Singlegay, Liam Bratley
+Alex D. Singleton, Liam Bratley
 }
